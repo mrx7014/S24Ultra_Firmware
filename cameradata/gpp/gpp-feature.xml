@@ -1,0 +1,5 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+<resources>
+	<local name="FEATURE_TASK_WATERMARK" value="true"  />
+	<local name="FEATURE_TASK_STARTRAIL" value="true"  />
+</resources>
